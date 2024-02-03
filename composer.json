@@ -1,5 +1,7 @@
 {
   "name": "koco/messenger-kafka",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
   "type": "symfony-bundle",
   "description": "Symfony Messenger Kafka Transport",
   "keywords": ["kafka", "symfony", "messenger", "transport", "queue", "bundle"],
