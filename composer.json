@@ -24,7 +24,7 @@
     "symfony/serializer": "^5.0||^6.0",
     "symfony/property-access": "^5.0||^6.0",
     "phpstan/phpstan": "^1.4.6",
-    "nyholm/psr7": "^1.4||^2.*"
+    "nyholm/psr7": "^1.4||^2.0"
   },
   "suggest": {
     "ext-rdkafka": "^4.0; Needed to support Kafka connectivity",
